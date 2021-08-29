@@ -1,0 +1,9 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/meryem/nuxt-project/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_f6be8da0"
+  }
+]
